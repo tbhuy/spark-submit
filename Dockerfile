@@ -1,4 +1,4 @@
-FROM h2020-candela/spark-base
+FROM h2020candela/spark-base
 
 # Set default environment variables. These can also be set at the command line when invoking /bin/spark-submit
 ENV MASTER_CONTAINER_NAME=spark-master
